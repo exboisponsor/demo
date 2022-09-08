@@ -1,0 +1,54 @@
+div{
+    /* background: tomato; */
+     width: 300px;
+    padding: 20px;
+    display: inline-block;
+}
+.first-div{
+    background: tomato;
+}
+#second-div{
+    background: #d7d7d7;
+}
+
+.thirddiv{ background: violet;}
+
+.parentdiv{ 
+    display: block;
+    /* background: black; */
+    width: 90%;
+    /* height: 200px; */
+    margin: 0 auto;
+    text-align: center;
+}
+.fouthdiv{
+    background: rgb(38, 197, 46);
+}
+.fifthdiv{
+    background:rgb(134, 94, 6);
+}
+.sixthdiv{
+    background:rgb(158, 0, 0);
+}
+.whatthefuck{
+    background: red;
+    width: 90%;
+    margin:0 auto;
+    text-align: center;
+}
+.sponsor{
+    /* color: royalblue; */
+    display: block;
+    /* background:purple */
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+.sponsor 1.{
+style="color:red
+}
+.sponsor 2.{
+  color:rgb(134, 94, 6);
+}
